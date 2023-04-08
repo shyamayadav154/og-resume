@@ -25,13 +25,13 @@ export default async function handler(req) {
             <div tw="mt-16 flex text-6xl leading-normal text-gray-200">
               Check out
             </div>
-            <div tw="mt-4 flex text-6xl leading-normal text-gray-200">
+            <div tw="mt-5 flex text-6xl leading-normal text-gray-200">
              my resume
             </div>
             <div tw="mt-5 flex text-lg text-gray-300">{email}</div>
 
-            <div tw="text-gray-300 text-2xl absolute bottom-10 left-10">
-              Created using mevvit.com
+            <div tw="text-gray-300 text-5xl absolute bottom-10 left-10">
+              mevvit.com
             </div>
           </div>
           <div tw="h-full bg-zinc-900 w-1/2 flex">
